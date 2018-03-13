@@ -2,7 +2,7 @@ buildscript {
     ext {
         projectVersion = '2.0.2-SNAPSHOT'
 
-        springBootVersion = '1.5.9.RELEASE'
+        springBootVersion = '1.5.10.RELEASE'
         springDependencyManagementVersion = '[1.0,2.0['
 
         lombokVersion = '[1.16,2.0['
